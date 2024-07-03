@@ -1,11 +1,11 @@
 ## Getting Started
 
 ```
-git clone https://github.com/LGROW101/assessment-tax.git
+https://github.com/LGROW101/Block-Blockchain.git
 
-cd assessment-tax
+cd Block-Blockchain
 
-docker compose up
+go run main.go
 ```
 
 ## Blockchain API Testing
